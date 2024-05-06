@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855169072754",
+    "project_id": "krishna-s-tea-fsm",
+    "storage_bucket": "krishna-s-tea-fsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855169072754:android:935a8b75acd67fa5690ceb",
+        "android_client_info": {
+          "package_name": "com.breezefieldkrishnatea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmmftF-L4gKtRFzdHdm2WmgKIoCDn45tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
